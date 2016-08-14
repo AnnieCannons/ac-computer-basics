@@ -1,4 +1,4 @@
-# AnnieCannons Introduction to the Web
+# AnnieCannons Digital Literacy
 
 Here you will find the information for our unit on digital literacy, personal finance, computer hardware, operating systems, and introducing the Web. Enjoy!
 
