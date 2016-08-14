@@ -1,6 +1,6 @@
 # AnnieCannons Introduction to the Web
 
-Here you will find the information for our unit on introducing the Web. Enjoy!
+Here you will find the information for our unit on digital literacy, personal finance, computer hardware, operating systems, and introducing the Web. Enjoy!
 
 How to use this repo:
 
