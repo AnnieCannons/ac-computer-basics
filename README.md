@@ -16,7 +16,8 @@ This module introduces students to the core fundamentals of using a computer and
 # Resources
 1) Check out the AnnieCannons Digital Literacy Handbook PDF
 2) Typing.com is a wonderful place to practice your typing. Our students need to get to 45 WPM with 98% accuracy.
-3) For more information on Personal Finance, check out Khan Academy Course on Finances
+3) For more information on Personal Finance, check out the Khan Academy Course on Personal Finances
+4) Definitely check this out from FreeCodeCamp: https://www.freecodecamp.com/videos/computer-basics-the-4-basic-parts-of-a-computer
 
 # Exercises
 1) Handout exercise IN Digital Literacy Handbook
