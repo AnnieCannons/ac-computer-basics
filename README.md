@@ -2,14 +2,16 @@
 
 This module introduces students to the core fundamentals of using a computer and working in the technology industry. We assume no prior knowledge of a computer. In addition to an intro to AnnieCannons, this modules covers:
 
-Personal Finance and Typing
-Computer Hardware
-Operating Systems
-Google Apps/Word Processing
-Communication Tools
-Cybersecurity
-What is the Internet?
-Understanding the Browser
+<ul>
+<li>Computer Hardware </li>
+<li>Personal Finance and Typing</li>
+<li>Operating Systems</li>
+<li>Google Apps/Word Processing</li>
+<li>Communication Tools</li>
+<li>Cybersecurity</li>
+<li>What is the Internet?</li>
+<li>Understanding the Browser</li>
+</ul>
 
 # Resources
 1) Check out the AnnieCannons Digital Literacy Handbook PDF
