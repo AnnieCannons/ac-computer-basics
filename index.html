@@ -33,14 +33,62 @@
     <!--[if lt IE 9]>
     <script src="lib/js/html5shiv.js"></script>
     <![endif]-->
+
+    <style>
+        .side-menu {
+            position: fixed;
+            left: 0;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif
+        }
+
+        .side-menu ul {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            justify-content: space-around;
+        }
+
+        .side-menu ul li{
+            list-style-type: none;
+            text-align: center;
+            padding: 10px;
+            border: 2px solid white;
+        }
+
+        .side-menu ul a {
+            color: white;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        @media screen and (max-width: 1024px){
+            .side-menu {
+                display: none;
+            }
+        }
+    </style>
 </head>
 
 <body>
+
+    <div class="side-menu">
+        <ul>
+            <a href="https://anniecannons.github.io/ac-digital-literacy/#/19"><li>Orientation</li></a>
+            <a href="#"></a><li>Typing</li></a>
+            <a href="#"></a><li>Computer Basics</li></a>
+            <a href="#"></a><li>G Suite</li></a>
+            <a href="#"></a><li>Online 101</li></a>
+            <a href="#"></a><li>Cybersecurity</li></a>
+        </ul>
+    </div>
+   
 
 <div class="reveal">
 
     <!-- Any section element inside of this container is displayed as a slide -->
     <div class="slides">
+        
 
         <!--Introduction slide-->
         <section>
