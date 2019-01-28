@@ -1,31 +1,22 @@
-# AnnieCannons Digital Literacy
+# AnnieCannons Computer Basics Unit
 
 This module introduces students to the core fundamentals of using a computer and working in the technology industry. We assume no prior knowledge of a computer. In addition to an intro to AnnieCannons, this modules covers:
 
 <ul>
-<li>Computer Hardware </li>
-<li>Personal Finance and Typing</li>
+<li>Computer Basics</li>
+<li>Typing</li>
+<li>Computer Hardware</li>
 <li>Operating Systems</li>
-<li>Google Apps/Word Processing</li>
-<li>Communication Tools</li>
-<li>Cybersecurity</li>
-<li>What is the Internet?</li>
-<li>Understanding the Browser</li>
+<li>Computer Files</li>
+<li>How To Use A Mac</li>
+<li>How To Use A Windows</li>
+
 </ul>
 
 # Resources
 1) Check out the AnnieCannons Digital Literacy Handbook PDF
 2) Typing.com is a wonderful place to practice your typing. Our students need to get to 45 WPM with 98% accuracy.
-3) For more information on Personal Finance, check out the Khan Academy Course on Personal Finances
 4) Definitely check this out from FreeCodeCamp: https://www.freecodecamp.com/videos/computer-basics-the-4-basic-parts-of-a-computer
-
-# Exercises
-1) Handout exercise IN Digital Literacy Handbook
-2) Letter to the Mayor
-3) Listmaking
-4) Table exercise
-5) Personal Budget Spreadsheet
-6) Google Slides: Pitch Your Own Technology Idea
 
 
 
